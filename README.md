@@ -17,7 +17,7 @@ then you need to have npm install in your system.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kedarSedai/Todo
+   git clone https://github.com/kedarSedai/Crypto-Currency-Exchanger-
    ```
 3. Install NPM packages
    ```sh
